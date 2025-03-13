@@ -1,0 +1,4 @@
+- Home: apresentação basica, tutorial de 3 imagens, btn para enviar a foto
+- ⁠cadastro: nome, usuário, email, senha
+- ⁠login
+- ⁠perfil: animaldex, nível
